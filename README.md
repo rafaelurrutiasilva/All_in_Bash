@@ -7,3 +7,7 @@ All scripts are present in my other repositories but are gathered here for easie
 ---
 ## A Mix of Originality and Community Inspiration
 It is not my intention to steal or take credit for others' work. My scripts are a product of both my own creation and a lot of borrowing and inspiration from like-minded individuals out there on forums, manuals, and the internet.
+
+## Modern Apps and Observability
+
+## Monitoring and Nagios Check
