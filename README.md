@@ -1,1 +1,3 @@
-# All_in_Bash
+# All in Bash
+In this repo you will find a bunch of scripts written in Bash!<br>
+They are categorized for various purposes, such as modern apps, observability, monitoring, and more.
