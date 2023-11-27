@@ -11,5 +11,11 @@ It is not my intention to steal or take credit for others' work. My scripts are 
 ## Modern Apps and Observability
 
 ## Monitoring and Nagios Check
+All comming from my repo [nagios-bash-plugins](https://github.com/rafaelurrutiasilva/nagios-bash-plugins)
+* https://github.com/rafaelurrutiasilva/nagios-bash-plugins/blob/main/plugins/check_by_top
+* https://github.com/rafaelurrutiasilva/nagios-bash-plugins/blob/main/plugins/check_disk
+* https://github.com/rafaelurrutiasilva/nagios-bash-plugins/blob/main/plugins/check_file_age
+* https://github.com/rafaelurrutiasilva/nagios-bash-plugins/blob/main/plugins/check_ps
 
-## Education and home-labb
+
+## Education and Home-labb
