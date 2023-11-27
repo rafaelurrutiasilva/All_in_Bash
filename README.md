@@ -13,17 +13,17 @@ It is not my intention to steal or take credit for others' work. My scripts are 
 Script | Function
 -------|---------
 [generate_manifests.sh](https://github.com/rafaelurrutiasilva/Generate_K8s_Manifests_Using_Helm/blob/main/generate_manifests.sh) | Used to generate Kubernetes manifests using Helm and Kubeseal.
-[install_prometheus_exporter.sh](https://github.com/rafaelurrutiasilva/Prometheus_on_PhotonOS/blob/main/scripts/install_prometheus_exporter.sh) |
-[install_prometheus_server.sh](https://github.com/rafaelurrutiasilva/Prometheus_on_PhotonOS/blob/main/scripts/install_prometheus_server.sh) |
-
+[install_prometheus_server.sh](https://github.com/rafaelurrutiasilva/Prometheus_on_PhotonOS/blob/main/scripts/install_prometheus_server.sh) | Install and confugure all you need to run a Prometheus server.
+[install_prometheus_exporter.sh](https://github.com/rafaelurrutiasilva/Prometheus_on_PhotonOS/blob/main/scripts/install_prometheus_exporter.sh) | Install and confugure all you need to run a Prometheus node-exporter.
 
 ## Monitoring and Nagios Check
+They are all tested in CentOS, Suse, RHEL and Photon OS
 Script | Function
 -------|---------
-[check_by_top](https://github.com/rafaelurrutiasilva/nagios-bash-plugins/blob/main/plugins/check_by_top) |
-[check_disk](https://github.com/rafaelurrutiasilva/nagios-bash-plugins/blob/main/plugins/check_disk) |
-[check_file_age](https://github.com/rafaelurrutiasilva/nagios-bash-plugins/blob/main/plugins/check_file_age) |
-[check_ps](https://github.com/rafaelurrutiasilva/nagios-bash-plugins/blob/main/plugins/check_ps) |
+[check_by_top](https://github.com/rafaelurrutiasilva/nagios-bash-plugins/blob/main/plugins/check_by_top) | Will check tasks, cpu, mem or swap using command top.
+[check_disk](https://github.com/rafaelurrutiasilva/nagios-bash-plugins/blob/main/plugins/check_disk) | Will check disk utilization.
+[check_file_age](https://github.com/rafaelurrutiasilva/nagios-bash-plugins/blob/main/plugins/check_file_age) | Will check file age in min filter by name and numbers of files.
+[check_ps](https://github.com/rafaelurrutiasilva/nagios-bash-plugins/blob/main/plugins/check_ps) | Will check linux process.
 
 
 ## Education and Home-labb
