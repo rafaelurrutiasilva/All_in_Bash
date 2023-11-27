@@ -11,3 +11,5 @@ It is not my intention to steal or take credit for others' work. My scripts are 
 ## Modern Apps and Observability
 
 ## Monitoring and Nagios Check
+
+## Education and home-labb
